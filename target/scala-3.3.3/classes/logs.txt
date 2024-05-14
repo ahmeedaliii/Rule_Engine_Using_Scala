@@ -1,0 +1,4 @@
+Timestamp: 2024-05-14T20:13:46.493Z	LogLevel: info	Message: Openning Writer
+Timestamp: 2024-05-14T20:13:48.943Z	LogLevel: info	Message: Opened DB Connection
+Timestamp: 2024-05-14T20:13:50.886Z	LogLevel: info	Message: Closed DB Connection
+Timestamp: 2024-05-14T20:13:50.887Z	LogLevel: info	Message: Closing Writer
