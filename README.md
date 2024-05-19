@@ -1,4 +1,4 @@
-# Scala-Discounts-Real-Time-Rule-Engine
+# Rule_Engine_Using_Scala
 
 ## Overview
 This Scala project is designed to handle discounts for orders based on various qualifying rules. It reads order data from a CSV file, applies discounts according to predefined rules, calculates final prices, and inserts the processed data into a database. Additionally, it includes logging functionality to track the processing flow and outcomes.
